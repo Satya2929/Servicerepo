@@ -1,0 +1,17 @@
+body{
+	  background-color: white;
+}
+.bg-primary{
+	background-color: green;
+	
+}
+.ba{
+	width:100%;
+	height:93vh;
+	background:black;
+	color:white;
+	
+}
+.mycard{
+	padding:60px
+}
